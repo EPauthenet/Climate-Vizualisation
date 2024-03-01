@@ -7,6 +7,5 @@ During the second year of ENSO events, the SST decrease at a rate of -0.27°C pe
 
 ![Alt text](Fig_SST2.png)
 ![Alt text](Fig_SST.png)
-![Alt text](Fig_SST3.png)
 ![Alt text](Fig_SST4.png)
 ![Alt text](Fig_SST5.png)
