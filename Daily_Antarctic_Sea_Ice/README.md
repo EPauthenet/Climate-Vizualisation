@@ -1,14 +1,11 @@
 # Climate-Vizualisation
 Data from NOAA NSIDC : https://nsidc.org/arcticseaicenews/sea-ice-tools/
 
-GLOBAL
-![Alt text](Figure/Global_SIE.png)
 ![Alt text](Figure/Global_SIE_line.png)
-
-ARCTIC
-![Alt text](Figure/Arctic_SIE.png)
 ![Alt text](Figure/Arctic_SIE_line.png)
-
-ANTARCTIC
-![Alt text](Figure/Antarctic_SIE.png)
 ![Alt text](Figure/Antarctic_SIE_line.png)
+
+----------------------------------------------
+![Alt text](Figure/Global_SIE.png)
+![Alt text](Figure/Arctic_SIE.png)
+![Alt text](Figure/Antarctic_SIE.png)
