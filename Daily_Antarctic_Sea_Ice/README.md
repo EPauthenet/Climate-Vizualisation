@@ -1,11 +1,14 @@
 # Climate-Vizualisation
-Derived and inspired from :https://pulse.climate.copernicus.eu/
+Data from NOAA NSIDC : https://nsidc.org/arcticseaicenews/sea-ice-tools/
 
-The extrapolar surface ocean (60S-60N) is getting warmer at a rate of 0.012°C per year.
+GLOBAL
+![Alt text](Figure/Global_SIE.png)
+![Alt text](Figure/Global_SIE_line.png)
 
-During the second year of ENSO events, the SST decreased at a rate of -0.27°C per year on average on the following ENSO events 82-83, 97-98, 09-10 and 15-16. For the year 2024, it is decreasing at a faster rate of -0.77°C per year (as of the 23rd of March 2024). 
+ARCTIC
+![Alt text](Figure/Arctic_SIE.png)
+![Alt text](Figure/Arctic_SIE_line.png)
 
-![Alt text](Figure/Fig_SST2.png)
-![Alt text](Figure/Fig_SST.png)
-![Alt text](Figure/Fig_SST4.png)
-![Alt text](Figure/Fig_SST5.png)
+ANTARCTIC
+![Alt text](Figure/Antarctic_SIE.png)
+![Alt text](Figure/Antarctic_SIE_line.png)
