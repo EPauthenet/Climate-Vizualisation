@@ -7,5 +7,3 @@ Data from NOAA NSIDC : https://nsidc.org/arcticseaicenews/sea-ice-tools/
 
 ----------------------------------------------
 ![Alt text](Figure/Global_SIE.png)
-![Alt text](Figure/Arctic_SIE.png)
-![Alt text](Figure/Antarctic_SIE.png)
